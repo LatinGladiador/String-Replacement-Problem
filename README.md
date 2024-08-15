@@ -1,7 +1,7 @@
 # String Replacement Problem
 
 ![Licencia MIT](https://img.shields.io/badge/licencia-MIT-blue.svg)
-![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow.svg)
+![Estado del Proyecto](https://img.shields.io/badge/estado-finalizado-green.svg)
 ![Versión](https://img.shields.io/badge/versión-1.0.0-brightgreen.svg)
 
 Este proyecto implementa un algoritmo para reemplazar caracteres en una cadena de texto según las posiciones indicadas por un arreglo. Es útil en casos donde se necesita modificar una cadena siguiendo un patrón específico definido por un conjunto de posiciones.
